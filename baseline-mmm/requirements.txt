@@ -1,0 +1,6 @@
+pymc-marketing==1.2.0
+h5netcdf
+marimo
+scipy
+matplotlib
+h5py
